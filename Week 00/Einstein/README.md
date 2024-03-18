@@ -24,17 +24,17 @@ This Python program is an implementation to [CS50’s Introduction to Programmin
 ```python
 # einstein.py
 
-def main():
-    mass = int(input("m: "))
+# Prompt mass
+mass = int(input("m: "))
 
-    speed_of_light = 300000000  # meters per second
-    energy = mass * (speed_of_light ** 2)
+# Speed of light
+speed_of_light = 300000000
 
-    print(f"E: {energy}")
+# Calculating energy using Einstein's famous formula
+joules = mass * speed_of_light ** 2
 
-
-if __name__ == "__main__":
-    main()
+# Outputting the equivalent energy in Joules
+print("E:", joules)
 ```
 
 ## How to Test
