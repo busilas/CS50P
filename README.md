@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Harvard CS50’s Introduction to Programming with Python — CS50P 2024
+Harvard CS50’s Introduction to Programming with Python<br>CS50P 2024
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@ Harvard CS50’s Introduction to Programming with Python — CS50P 2024
 - [Einstein](/Week%200/Einstein)
 - [Tip Calculator](/Week%200/Tip%20Calculator)
 
-### [Week 11](/Week%201/) - [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
+### [Week 01](/Week%201/) - [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
 - [Deep Thought](/Week%201/Deep%20Thought)
 - [Home Federal Savings Bank](/Week%201/Home%20Federal%20Savings%20Bank)
 - [File Extensions](/Week%201/File%20Extensions)
