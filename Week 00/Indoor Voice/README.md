@@ -2,23 +2,6 @@
 
 This Python program is an implementation to [CS50’s Introduction to Programming with Python Week 0 - Indoor Voice Problem Set](https://cs50.harvard.edu/python/2022/psets/0/indoor/), named `indoor.py`, prompts the user for input and then outputs the same input in lowercase, while preserving punctuation and whitespace. It is designed to provide a more calm and polite "indoor voice" experience when handling user input.
 
-## How to Run the Program
-
-1. Open your terminal.
-2. Navigate to the directory where you have saved the `indoor.py` file.
-
-   ```
-   cd path/to/your/directory
-   ```
-
-3. Run the program using the Python interpreter:
-
-   ```
-   python indoor.py
-   ```
-
-4. The program will prompt you to enter some text. After you press Enter, it will output the same text in lowercase.
-
 ## Program Code
 
 ```python
@@ -30,7 +13,6 @@ user_input = input("Enter some text: ")
 # Converting input to lowercase and printing
 lowercase_input = user_input.lower()
 print(lowercase_input)
-
 ```
 
 ## How to Test
@@ -49,8 +31,3 @@ print(lowercase_input)
 
 3. **Input:** 50
    **Output:** 50
-
-## Additional Notes
-
-Remember to save the `indoor.py` file in the same directory where you are running the program. If you encounter any issues with the program not being found or not running as expected, make sure you are in the correct directory and have saved the file with the correct name.
-
